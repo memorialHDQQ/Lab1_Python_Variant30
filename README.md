@@ -1,0 +1,1 @@
+# Lab1_Python_Variant30
